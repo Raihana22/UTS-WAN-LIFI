@@ -1,7 +1,7 @@
 # LIFI
 
 ## Pengertian LIFI
-   [ Light Fidelity ] atau _LIFI_ merupakan teknologi komunikasi nirkabel dua arah yang berkecepatan tinggi dan mirip dengan teknologi Wi-Fi. Istilah ini dicetuskan oleh Harald Haas dan merupakan sebuah bentuk dari komunikasi yang memanfaatkan cahaya tampak.
+   **Light Fidelity** atau _LIFI_ merupakan teknologi komunikasi nirkabel dua arah yang berkecepatan tinggi dan mirip dengan teknologi Wi-Fi. Istilah ini dicetuskan oleh Harald Haas dan merupakan sebuah bentuk dari komunikasi yang memanfaatkan cahaya tampak.
 
 
 LiFi dirancang untuk menggunakan bola lampu LED yang serupa dengan yang saat ini digunakan di banyak rumah dan kantor yang sadar energi. Namun, lampu LiFi dilengkapi dengan chip yang memodulasi cahaya untuk transmisi data optik.
