@@ -19,14 +19,21 @@ Seperti Wi-Fi, Li-Fi adalah teknologi nirkabel dan menggunakan protokol 802.11 y
   Agar Li-Fi bisa bekerja, dibutuhkan dua sumber cahaya yang dipasang pada masing-masing ujung perangkat. Contoh sumber cahaya yang bisa dipakai adalah detektor foto (Light Sensor) dan LED. Ketika cahaya LED hidup, maka cahaya sensor pada ujung perangkat lainnya akan mendeteksi dan mengartikannya sebagai biner 1. Jumlah cahaya yang ada pada LED tersebut akan mengirimkan pesan yang akan ditangkap oleh detektor cahaya pada perangkat satunya.
 
 ## Kelebihan Dan Kekurangan Dari Jaringan LIFI
+
   ### Kelebihan
+
        - Mudah dalam mengakses internet meski di daerah terpencil yang susah dijangkau kabel optik.
+
        - Bisa dipakai untuk mengontrol kondisi lalu lintas dengan menempatkan Li-Fi ke LED mobil.
+
        - Mampu mengurangi polusi elektromagnetik yang dihasilkan gelombang radio.
 
   ### Kekurangan
+
        - Membutuhkan direct line of sight (pandangan langsung) ke perangkat tujuan.
+
        - Perangkat tujuan tidak boleh dipindah agar dapat menerima data yang dikirimkan.
+
        - Cara mengirimkan kembali data ke pemancar masih belum bisa optimal.
 
 
