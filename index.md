@@ -1,10 +1,11 @@
 # LIFI
 
 ## Pengertian LIFI
-   Light Fidelity merupakan teknologi komunikasi nirkabel dua arah yang berkecepatan tinggi dan mirip dengan teknologi Wi-Fi. Istilah ini dicetuskan oleh Harald Haas dan merupakan sebuah bentuk dari komunikasi yang memanfaatkan cahaya tampak.
-```markdown
-Syntax highlighted code block
+   [Light Fidelity] merupakan teknologi komunikasi nirkabel dua arah yang berkecepatan tinggi dan mirip dengan teknologi Wi-Fi. Istilah ini dicetuskan oleh Harald Haas dan merupakan sebuah bentuk dari komunikasi yang memanfaatkan cahaya tampak.
 
+LiFi dirancang untuk menggunakan bola lampu LED yang serupa dengan yang saat ini digunakan di banyak rumah dan kantor yang sadar energi. Namun, lampu LiFi dilengkapi dengan chip yang memodulasi cahaya untuk transmisi data optik.
+
+```Kecepatan Li-Fi dapat mencapai 224 gigabit per detik, dan beberapa uji coba mencatat bahwa kecepatannya itu adalah 100x lebih cepat dari kecepatan Wi-Fi rata-rata saat ini. Layanan Li-Fi juga sebagaimana layanan Wi-Fi, dapat mencakup aplikasi web, audio, atau bahkan video. Ukuran spektrum Li-Fi juga sangat besar. Wi-Fi bekerja pada frekuensi 2,4GHz, 4,9GHz dan 5GHz, sementara Li-Fi mencakup 10.000 kali spektrum frekuensi radio. ```
 # Header 1
 ## Header 2
 ### Header 3
@@ -18,7 +19,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
