@@ -1,13 +1,7 @@
-## Welcome to GitHub Pages
+# LIFI
 
-You can use the [editor on GitHub](https://github.com/Raihana22/UTS_WAN_LIFI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Pengertian LIFI
+   Light Fidelity merupakan teknologi komunikasi nirkabel dua arah yang berkecepatan tinggi dan mirip dengan teknologi Wi-Fi. Istilah ini dicetuskan oleh Harald Haas dan merupakan sebuah bentuk dari komunikasi yang memanfaatkan cahaya tampak.
 ```markdown
 Syntax highlighted code block
 
