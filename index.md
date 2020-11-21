@@ -10,7 +10,7 @@ LiFi dirancang untuk menggunakan bola lampu LED yang serupa dengan yang saat ini
 ```Kecepatan Li-Fi dapat mencapai 224 gigabit per detik, dan beberapa uji coba mencatat bahwa kecepatannya itu adalah 100x lebih cepat dari kecepatan Wi-Fi rata-rata saat ini. Layanan Li-Fi juga sebagaimana layanan Wi-Fi, dapat mencakup aplikasi web, audio, atau bahkan video. Ukuran spektrum Li-Fi juga sangat besar. Wi-Fi bekerja pada frekuensi 2,4GHz, 4,9GHz dan 5GHz, sementara Li-Fi mencakup 10.000 kali spektrum frekuensi radio```
 
 
-Hal yang dapat membatasi jaringan LIFI yaitu : ** Dinding **. Cahaya tidak bisa menembus dinding. Jika seseorang berdiri di antara perangkat dan sumber cahaya dengan cara yang benar-benar memblokirnya, maka tidak akan ada transfer data. Dan lampu juga harus terus dinyalakan untuk mentransfer data. Hal ini membatasi bagaimana Li-Fi dapat digunakan. Li-Fi juga memiliki rentang fungsi yang lebih pendek daripada Wi-Fi pada umumnya. Namun, ketidakmampuan untuk melewati dinding atau pemblokir ini juga merupakan manfaat besar Li-Fi karena urusan menjaga keamanan data menjadi sangat sederhana hanya dengan mengurungnya di aliran cahaya.
+Hal yang dapat membatasi jaringan LIFI yaitu : **Dinding** . Cahaya tidak bisa menembus dinding. Jika seseorang berdiri di antara perangkat dan sumber cahaya dengan cara yang benar-benar memblokirnya, maka tidak akan ada transfer data. Dan lampu juga harus terus dinyalakan untuk mentransfer data. Hal ini membatasi bagaimana Li-Fi dapat digunakan. Li-Fi juga memiliki rentang fungsi yang lebih pendek daripada Wi-Fi pada umumnya. Namun, ketidakmampuan untuk melewati dinding atau pemblokir ini juga merupakan manfaat besar Li-Fi karena urusan menjaga keamanan data menjadi sangat sederhana hanya dengan mengurungnya di aliran cahaya.
 
 
 Seperti Wi-Fi, Li-Fi adalah teknologi nirkabel dan menggunakan protokol 802.11 yang serupa, tetapi Li-Fi menggunakan ultraviolet, inframerah dan komunikasi cahaya tampak (bukan gelombang frekuensi radio), yang memiliki bandwidth jauh lebih besar. Satu bagian dari VLC dimodelkan setelah protokol komunikasi yang dibuat oleh kelompok kerja IEEE 802. Namun, standar IEEE 802.15.7 sudah ketinggalan zaman: ia gagal untuk mempertimbangkan perkembangan teknologi terbaru dalam bidang komunikasi nirkabel optik, khususnya dengan pengenalan metode modulasi optical orthogonal frequency-division multiplexing (O-OFDM) yang telah dioptimalkan untuk kecepatan data, akses ganda dan efisiensi energi. 
@@ -28,3 +28,6 @@ Seperti Wi-Fi, Li-Fi adalah teknologi nirkabel dan menggunakan protokol 802.11 y
        - Membutuhkan direct line of sight (pandangan langsung) ke perangkat tujuan.
        - Perangkat tujuan tidak boleh dipindah agar dapat menerima data yang dikirimkan.
        - Cara mengirimkan kembali data ke pemancar masih belum bisa optimal.
+
+
+Sekian dari saya atas perhatian dan waktu bapak saya ucapkan terima kasih.
